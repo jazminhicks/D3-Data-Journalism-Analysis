@@ -20,3 +20,6 @@ Using the D3 techniques we taught you in class, create a scatter plot that repre
 * Note: You'll need to use `python -m http.server` to run the visualization. This will host the page at `localhost:8000` in your web browser.
 
 - - -
+
+![d3_scatter](https://user-images.githubusercontent.com/49836101/64741897-d3470600-d4bf-11e9-9944-fb0817cf039e.PNG)
+
